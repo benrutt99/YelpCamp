@@ -1,4 +1,4 @@
-# Welcome to YelpCamp - [https://yelp-camp-5wa4.onrender.com/]
+# Welcome to YelpCamp - https://yelp-camp-5wa4.onrender.com/
 
 This website was built as a final project for Colt Steele's Web Developer Bootcamp.
 
